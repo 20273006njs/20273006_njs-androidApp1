@@ -9,3 +9,8 @@
 ## 5주차 과제
 교수님 아직 오류 관련 큐엔에이 답변을 못 받아서 실행 직전까지 한 작업 캡쳐본 업로드 합니다ㅠㅠ 감사합니다.
 <img width="" height="" src="./png/과제1.JPG"></img>
+
+## 6주차 과제
+<img width="" height="" src="./png/6주차-11.JPG"></img>
+<img width="" height="" src="./png/6주차-22.JPG"></img>
+<img width="" height="" src="./png/6주차-3.JPG"></img>
