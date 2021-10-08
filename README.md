@@ -11,6 +11,6 @@
 <img width="" height="" src="./png/과제1.JPG"></img>
 
 ## 6주차 과제
-<img width="" height="" src="./png/6주차-11.JPG"></img>
-<img width="" height="" src="./png/6주차-22.JPG"></img>
+<img width="" height="" src="./png/6주차-11.jpg"></img>
+<img width="" height="" src="./png/6주차-22.jpg"></img>
 <img width="" height="" src="./png/6주차-3.JPG"></img>
