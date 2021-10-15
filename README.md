@@ -14,3 +14,7 @@
 <img width="" height="" src="./png/6주차-11.jpg"></img>
 <img width="" height="" src="./png/6주차-22.jpg"></img>
 <img width="" height="" src="./png/6주차-3.JPG"></img>
+
+## 7주차 과제
+<img width="" height="" src="./png/7주차-2.JPG"></img>
+<img width="" height="" src="./png/7주차-3.JPG"></img>
